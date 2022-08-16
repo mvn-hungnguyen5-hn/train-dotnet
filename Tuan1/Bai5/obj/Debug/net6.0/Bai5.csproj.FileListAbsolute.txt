@@ -1,0 +1,15 @@
+C:\TrainC#\train-dotnet\Tuan1\Bai5\obj\Debug\net6.0\Bai5.csproj.AssemblyReference.cache
+C:\TrainC#\train-dotnet\Tuan1\Bai5\obj\Debug\net6.0\Bai5.GeneratedMSBuildEditorConfig.editorconfig
+C:\TrainC#\train-dotnet\Tuan1\Bai5\obj\Debug\net6.0\Bai5.AssemblyInfoInputs.cache
+C:\TrainC#\train-dotnet\Tuan1\Bai5\obj\Debug\net6.0\Bai5.AssemblyInfo.cs
+C:\TrainC#\train-dotnet\Tuan1\Bai5\obj\Debug\net6.0\Bai5.csproj.CoreCompileInputs.cache
+C:\TrainC#\train-dotnet\Tuan1\Bai5\bin\Debug\net6.0\Bai5.exe
+C:\TrainC#\train-dotnet\Tuan1\Bai5\bin\Debug\net6.0\Bai5.deps.json
+C:\TrainC#\train-dotnet\Tuan1\Bai5\bin\Debug\net6.0\Bai5.runtimeconfig.json
+C:\TrainC#\train-dotnet\Tuan1\Bai5\bin\Debug\net6.0\Bai5.dll
+C:\TrainC#\train-dotnet\Tuan1\Bai5\bin\Debug\net6.0\Bai5.pdb
+C:\TrainC#\train-dotnet\Tuan1\Bai5\obj\Debug\net6.0\Bai5.dll
+C:\TrainC#\train-dotnet\Tuan1\Bai5\obj\Debug\net6.0\refint\Bai5.dll
+C:\TrainC#\train-dotnet\Tuan1\Bai5\obj\Debug\net6.0\Bai5.pdb
+C:\TrainC#\train-dotnet\Tuan1\Bai5\obj\Debug\net6.0\Bai5.genruntimeconfig.cache
+C:\TrainC#\train-dotnet\Tuan1\Bai5\obj\Debug\net6.0\ref\Bai5.dll
