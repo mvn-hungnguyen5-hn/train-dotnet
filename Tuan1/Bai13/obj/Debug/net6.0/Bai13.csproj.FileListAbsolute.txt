@@ -1,0 +1,15 @@
+/Users/hung.nguyen5/Documents/Train-dotnet/train-dotnet/Tuan1/Bai13/bin/Debug/net6.0/Bai13
+/Users/hung.nguyen5/Documents/Train-dotnet/train-dotnet/Tuan1/Bai13/bin/Debug/net6.0/Bai13.deps.json
+/Users/hung.nguyen5/Documents/Train-dotnet/train-dotnet/Tuan1/Bai13/bin/Debug/net6.0/Bai13.runtimeconfig.json
+/Users/hung.nguyen5/Documents/Train-dotnet/train-dotnet/Tuan1/Bai13/bin/Debug/net6.0/Bai13.dll
+/Users/hung.nguyen5/Documents/Train-dotnet/train-dotnet/Tuan1/Bai13/bin/Debug/net6.0/Bai13.pdb
+/Users/hung.nguyen5/Documents/Train-dotnet/train-dotnet/Tuan1/Bai13/obj/Debug/net6.0/Bai13.csproj.AssemblyReference.cache
+/Users/hung.nguyen5/Documents/Train-dotnet/train-dotnet/Tuan1/Bai13/obj/Debug/net6.0/Bai13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hung.nguyen5/Documents/Train-dotnet/train-dotnet/Tuan1/Bai13/obj/Debug/net6.0/Bai13.AssemblyInfoInputs.cache
+/Users/hung.nguyen5/Documents/Train-dotnet/train-dotnet/Tuan1/Bai13/obj/Debug/net6.0/Bai13.AssemblyInfo.cs
+/Users/hung.nguyen5/Documents/Train-dotnet/train-dotnet/Tuan1/Bai13/obj/Debug/net6.0/Bai13.csproj.CoreCompileInputs.cache
+/Users/hung.nguyen5/Documents/Train-dotnet/train-dotnet/Tuan1/Bai13/obj/Debug/net6.0/Bai13.dll
+/Users/hung.nguyen5/Documents/Train-dotnet/train-dotnet/Tuan1/Bai13/obj/Debug/net6.0/refint/Bai13.dll
+/Users/hung.nguyen5/Documents/Train-dotnet/train-dotnet/Tuan1/Bai13/obj/Debug/net6.0/Bai13.pdb
+/Users/hung.nguyen5/Documents/Train-dotnet/train-dotnet/Tuan1/Bai13/obj/Debug/net6.0/Bai13.genruntimeconfig.cache
+/Users/hung.nguyen5/Documents/Train-dotnet/train-dotnet/Tuan1/Bai13/obj/Debug/net6.0/ref/Bai13.dll
