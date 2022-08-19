@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hung.nguyen5/Documents/Train-dotnet/train-dotnet/Tuan1/Bai15/Bai15.csproj",
-      "projectName": "Bai15",
-      "projectPath": "/Users/hung.nguyen5/Documents/Train-dotnet/train-dotnet/Tuan1/Bai15/Bai15.csproj",
+      "projectUniqueName": "/Users/hung.nguyen5/Documents/Train-dotnet/train-dotnet/Tuan1/OOP/Bai2/Bai2.csproj",
+      "projectName": "Bai2",
+      "projectPath": "/Users/hung.nguyen5/Documents/Train-dotnet/train-dotnet/Tuan1/OOP/Bai2/Bai2.csproj",
       "packagesPath": "/Users/hung.nguyen5/.nuget/packages/",
-      "outputPath": "/Users/hung.nguyen5/Documents/Train-dotnet/train-dotnet/Tuan1/Bai15/obj/",
+      "outputPath": "/Users/hung.nguyen5/Documents/Train-dotnet/train-dotnet/Tuan1/OOP/Bai2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/hung.nguyen5/.nuget/NuGet/NuGet.Config"
