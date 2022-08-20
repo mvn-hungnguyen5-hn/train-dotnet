@@ -8,7 +8,7 @@ namespace Bai21
         static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
-            Console.WriteLine("Chương trình kiểm tra định dạng chuỗi nhập vào");
+            List<string> list = new List<string>;
             Console.WriteLine("Nhập chuối số:");
         }
     }
