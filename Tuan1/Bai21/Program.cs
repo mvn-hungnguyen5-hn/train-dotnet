@@ -8,7 +8,7 @@ namespace Bai21
         static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
-            int count = 1;
+            int count = 6;
             Console.WriteLine("Nhập chuối số:");
         }
     }
